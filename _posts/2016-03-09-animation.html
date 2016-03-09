@@ -2,6 +2,30 @@
 layout: default
 title: 你好，世界
 ---
+<style type="text/css">
+.keyframes-div
+{
+width:100px;
+height:100px;
+background:red;
+position:relative;
+-webkit-animation:myfirst 5s;
+}
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+0%   {
+  background-color: #ff0000; left:0px; top:0px;}
+25%  {
+  background-color: #ffff00;  left:200px; top:0px; border-radius: 25px;}
+50%  {
+  background-color: #00ff00;  left:200px; top:200px; border-radius: 50px;}
+75%  {
+  background-color: #ff00ff;  left:0px; top:200px; border-radius: 25px;}
+100% {
+  background-color:  #ff0000; ; left:0px; top:0px;}
+}
+</style>
 <h2>{{ page.title }}</h2>
 <p>我的第一篇文章</p>
 <p>{{ page.date | date_to_string }}</p>
+<div class="keyframes-div"></div>
