@@ -6,7 +6,7 @@
  - Github：https://github.com/bzw875
 
  - 期望职位：Web前端
- - 期望薪资：税前月薪11k~20k
+ - 期望薪资：税前月薪15k~20k
  - 期望城市：上海
 
 ---
@@ -16,7 +16,7 @@
 ## 奥盈琦信信息技术（上海）有限公司 （ 2014年4月 ~ 至今 ）
 
 ### AmQue催收系统 
-这个产品使用了jquery, jquery-UI；刚到公司接手的是一个兼职前端写的前端代码，我重构了里面的HTML、CSS代码，这需要我具备看懂play Framework的模板引擎Groovy的语法，和他们写的javascript代码；
+这个产品使用了jquery, jquery-UI；刚到公司我重构了里面的部分的HTML、全部的CSS代码，这需要我具备看懂play Framework的模板引擎Groovy的语法，和他们写的javascript代码
 
 
 ### MiQue营销系统
@@ -51,8 +51,15 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 
 - 前端框架：Bootstrap/jquery-UI/jquery
 - 版本管理：Git
-- 前端相关：http/正则表达式
+- 调试：chrome开发者工具调试
+- 前端相关：http/正则表达式/JSON/IE8+兼容
 - 软件：photoshop/illustrator
+
+入门水平的技能
+- node.js/npm
+- ECMAScript 6
+- CommonJS,AMD
+- SVG/D3.js(改造一个示例)
 
 ## 读过的书
 
@@ -65,7 +72,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - 《Node.js实战》
 - 《精通CSS》
 - 《javascript权威指南》 到711页
-- 《ECMAScript 6 入门》阮一峰 网页版 到set和map数据结构
+- 《ECMAScript 6 入门》阮一峰 网页版 到Module章
 - 《代码大全》 到86页
 - 《java核心技术卷一》 到210页
 - 《http权威指南》 到250页
