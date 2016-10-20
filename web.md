@@ -23,6 +23,7 @@
 这是我到公司第一个做的东西，当时js水平不行，设计并画了几个页面，这个产品使用jquery、bootstrap、和jquery DataTables的插件，后台使用了spring mvc，我是这样和后台协作的，定下需要的值、JSON、或者在模板语法可遍历的List，在后台渲染DOM，
 ajax交互式定下Url,http method,data和调用成功后的data。
 当时为了复用编写了一个表达式编辑的 [jquery插件](http://enterprise.mique.ausxin.net/mique/resource/javascript/ausxin-plugins.js)
+当时安装了jsHint来检查代码错误
 
 
 ### 公司官网
@@ -32,7 +33,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 ## 广州童盟商贸有限公司 （ 2013年11月-2014年03月 ）
 
 ### 公司商城  
-我设计和编写的一个网站和一个php一起开发，我保留有静态页面。
+我设计和编写的一个网站和一个php一起开发[静态页面](http://bzw875.github.io/BearWOW-Mall/)
 
 
 ###  公司网站
@@ -60,6 +61,8 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - ECMAScript 6
 - CommonJS,AMD
 - SVG/D3.js(改造一个示例)
+- 英语(看看jquery文档还行)
+- linux简单操作
 
 ## 读过的书
 
