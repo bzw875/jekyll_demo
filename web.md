@@ -78,13 +78,10 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - 《数据结构与算法javascript描述》
 - 《Node.js实战》
 - 《精通CSS》
-- 《javascript权威指南》 到711页
+- 《javascript权威指南》 
 - 《ECMAScript 6 入门》阮一峰 网页版 到Module章
-- 《代码大全》 到86页
 - 《java核心技术卷一》 到210页
 - 《http权威指南》 到250页
-- 《深入理解计算机系统》 到34页
-- 《图解 TCP/IP》 到46页
 - 《C程序设计语言》 到127页
 
 
