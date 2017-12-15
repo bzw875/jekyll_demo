@@ -63,11 +63,11 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 
 入门水平的技能
 - node.js/npm/gulp(压缩博客的静态文件打上md5)
-- ECMAScript 6
-- CommonJS,AMD
+- ECMAScript 6(我的博客用了一部分es 6的)
+- CommonJS
 - SVG/D3.js(改造一个示例)
-- 英语(看看jquery文档还行)
-- linux简单操作
+- 英语(英文+google、stackoverflow、英文文档)
+- linux简单操作（比如我的博客发包）
 
 # 自我描述
 2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个，对着网页一个字一个字的敲打，然后刷浏览器。
