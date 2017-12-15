@@ -58,11 +58,12 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - 前端框架：jquery/Vue.js/Bootstrap/jquery-UI
 - 版本管理：Git
 - 调试：chrome开发者工具调试
-- 前端相关：http/正则表达式/JSON/IE9+兼容
+- 前端相关：正则表达式/JSON/IE9+兼容
+- http: 看了一半《http权威指南》可以快速使用http的知识排查问题
 - 软件：photoshop/illustrator
 
 入门水平的技能
-- node.js/npm
+- node.js/npm/gulp(压缩博客的静态文件打上md5)
 - ECMAScript 6
 - CommonJS,AMD
 - SVG/D3.js(改造一个示例)
@@ -84,7 +85,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - 《Node.js实战》
 - 《精通CSS》
 - 《javascript权威指南》 
-- 《ECMAScript 6 入门》阮一峰 网页版 到Module章
+- 《ECMAScript 6 入门》
 - 《java核心技术卷一》 到210页
 - 《http权威指南》 到250页
 - 《C程序设计语言》 到127页
