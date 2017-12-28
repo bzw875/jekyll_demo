@@ -1,14 +1,14 @@
 # 个人信息
 
  - 班兆武/男/1990 
- - 本科/广西职业技术学院 - 计算机应用技术 
- - 工作年限：3年
+ - 专科/广西职业技术学院 - 计算机应用技术 
+ - 工作年限：5年
  - Github：https://github.com/bzw875、https://github.com/banzhaowu-ausxin
  - 手机：15618976875
  - 邮箱：bzw875@126.com
 
  - 期望职位：Web前端
- - 期望薪资：税前月薪15k~22k
+ - 期望薪资：税前月薪15k~20k
  - 期望城市：上海
 
 ---
@@ -45,7 +45,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 ---
 
 ## 基于node.js的个人博客
-参照一个教程做的网站，基于Express、MongoDB
+参照一个教程做的网站，基于Express、MongoDB,用了部分的ES6,没用babel编译
 网址:http://www.bzw875.com
 仓库:https://github.com/bzw875/blog
 
@@ -65,6 +65,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 - node.js/npm/gulp(压缩博客的静态文件打上md5)
 - ECMAScript 6(我的博客用了一部分es 6的)
 - CommonJS
+- 熟悉Less可以很快上手
 - SVG/D3.js(改造一个示例)
 - 英语(英文+google、stackoverflow、英文文档)
 - linux简单操作（比如我的博客发包）
@@ -73,22 +74,6 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个，对着网页一个字一个字的敲打，然后刷浏览器。
 大学写的代码很少我的编程之路从《javascript DOM编程的艺术》开始；来上海后开始学习javascript，把两本书《javascript高级程序设计》、《javascript权威指南》都啃完了， 可以说熟练掌握了js，原型链的继承，事件的冒泡和捕获，和变量的提升，理解原理之后代码写起来一气呵成，挺爽的。看过一部分jquery源代码，bootstrap源代码；研究过node.js，读完《深入浅出node.js》发现和java web开发有不少共通之处，模版引擎，路由，http的接受和发送。 我知道不是本科出身，所以就需要自学一些本科计算机学习的知识C语言，数据结构与算法，计算机原理等等。 我有空就多折腾技术
 
-## 读过的书
-
-- 《javascript DOM编程的艺术》
-- 《锋利的jquery》
-- 《深入浅出node.js》
-- 《javascript高级程序设计》
-- 《单页web应用》
-- 《数据结构与算法javascript描述》
-- 《Node.js实战》
-- 《精通CSS》
-- 《javascript权威指南》 
-- 《ECMAScript 6 入门》
-- 《C程序设计语言》 
-### 没读完
-- 《java核心技术卷一》 到210页
-- 《http权威指南》 到250页
 
 
 ---
