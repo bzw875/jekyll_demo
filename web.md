@@ -46,7 +46,7 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 
 ## 基于node.js的个人博客
 参照一个教程做的网站，基于Express、MongoDB,用了部分的ES6,没用babel编译
-网址:http://www.bzw875.com
+网址:http://119.27.161.90/
 仓库:https://github.com/bzw875/blog
 
 
