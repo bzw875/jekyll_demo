@@ -6,7 +6,7 @@
  - Github：https://github.com/bzw875
  - 手机：15618976875
  - 邮箱：bzw875@126.com
-
+ - 个人网站：http://banzhaowu.com/
  - 期望职位：Web前端
  - 期望薪资：税前月薪15k~20k
  - 期望城市：上海
