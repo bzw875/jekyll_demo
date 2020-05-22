@@ -60,18 +60,18 @@
 # 技能清单
 
 熟练掌握的技能
-•	jquery、Vue.js、Bootstrap、ECMAScript 6
-•	Git、SVN、websocket
-•	chrome开发者工具调试
-•	正则表达式、IE9+兼容
-•	http: 看完《http权威指南》可以快速使用http的知识排查问题
-•	Adobe photoshop、Adobe illustrator
+- jquery、Vue.js、Bootstrap、ECMAScript 6
+- Git、SVN、websocket
+- chrome开发者工具调试
+- 正则表达式、IE9+兼容
+- http: 看完《http权威指南》可以快速使用http的知识排查问题
+- Adobe photoshop、Adobe illustrator
 
 入门水平的技能
-•	node.js、webpack、java
-•	canvas、SVG、D3.js
-•	英语(英文+google、stackoverflow、英文文档)
-•	linux简单操作（比如我的博客运维）
+- node.js、webpack、java
+- canvas、SVG、D3.js
+- 英语(英文+google、stackoverflow、英文文档)
+- linux简单操作（比如我的博客运维）
 
 
 # 自我描述
