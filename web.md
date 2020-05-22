@@ -2,8 +2,8 @@
 
  - 班兆武/男/1990 
  - 专科/广西职业技术学院 - 计算机应用技术 
- - 工作年限：5年
- - Github：https://github.com/bzw875、https://github.com/banzhaowu-ausxin
+ - 工作年限：8年
+ - Github：https://github.com/bzw875
  - 手机：15618976875
  - 邮箱：bzw875@126.com
 
@@ -15,17 +15,25 @@
 
 # 工作经历
 
+
+## 紫川软件有限公司 （ 2019-06 ~ 2020-05 ）任职1年
+### 运营聊天系统
+这个产品是一个支持作业员和客户聊天的系统，使用了websocket与服务器实时通信，架构使用了React.js，react-router、and-design。
+
+### 企业微信下载文件浏览页面
+一个web单页面，用到了企业微信JS-SDK。
+
+### 运营聊天移动版WebApp
+嵌入App的页面，用了vue全家桶，UI用mint-ui，适配各种移动设备，flex布局
+
+
 ## 奥盈琦信信息技术（上海）有限公司 （ 2014年4月 ~ 至今 ）
 
 ### AmQue催收系统 
-这个产品使用了jquery, jquery-UI；刚到公司我重构了里面的部分的HTML、CSS、javascript代码。这需要我具备看懂play Framework的模板引擎Groovy的语法
-
+这个产品使用jquery、bootstrap、和jquery DataTables的插件，后台使用了spring mvc。
 
 ### MiQue营销系统
-这个产品使用jquery、bootstrap、和jquery DataTables的插件，后台使用了spring mvc，我是这样和后台协作的，定下需要的值、JSON、或者在模板语法可遍历的List，在后台渲染DOM，
-ajax交互式定下Url,http method,data和调用成功后的data。
-当时为了复用编写了一个表达式编辑的 [jquery插件](http://enterprise.mique.ausxin.net/mique/resource/javascript/ausxin-plugins.js)
-当时安装了jsHint来检查代码错误
+这个产品使用了vue的全家桶，vuex、vue-router、axios.js、UI使用了element-UI，webpack构建项目和打包编译代码，我学会了ES6语法、CSS扩展语言、webpack基本配置比如：多入口打包，webpack代理转发API服务（devServer.proxy）。
 
 
 ### 公司官网
@@ -44,36 +52,30 @@ ajax交互式定下Url,http method,data和调用成功后的data。
 
 ---
 
-## 基于node.js的个人博客
-参照一个教程做的网站，基于Express、MongoDB,用了部分的ES6,没用babel编译
-网址:http://119.27.161.90/
-仓库:https://github.com/bzw875/blog
+## 个人博客spring 开发的
+网址：http://banzhaowu.com
+代码：https://github.com/bzw875/SpringBoot-blog
 
 
 # 技能清单
 
-以下均为我熟练使用的技能
-
-- 前端框架：jquery/Vue.js/Bootstrap/jquery-UI
-- 版本管理：Git
-- 调试：chrome开发者工具调试
-- 前端相关：正则表达式/JSON/IE9+兼容
-- http: 看了一半《http权威指南》可以快速使用http的知识排查问题
-- 软件：photoshop/illustrator
+熟练掌握的技能
+•	jquery、Vue.js、Bootstrap、ECMAScript 6
+•	Git、SVN、websocket
+•	chrome开发者工具调试
+•	正则表达式、IE9+兼容
+•	http: 看完《http权威指南》可以快速使用http的知识排查问题
+•	Adobe photoshop、Adobe illustrator
 
 入门水平的技能
-- node.js/npm/gulp(压缩博客的静态文件打上md5)
-- ECMAScript 6(我的博客用了一部分es 6的)
-- CommonJS
-- 熟悉Less可以很快上手
-- SVG/D3.js(改造一个示例)
-- 英语(英文+google、stackoverflow、英文文档)
-- linux简单操作（比如我的博客发包）
+•	node.js、webpack、java
+•	canvas、SVG、D3.js
+•	英语(英文+google、stackoverflow、英文文档)
+•	linux简单操作（比如我的博客运维）
+
 
 # 自我描述
-2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个，对着网页一个字一个字的敲打，然后刷浏览器。
-大学写的代码很少我的编程之路从《javascript DOM编程的艺术》开始；来上海后开始学习javascript，把两本书《javascript高级程序设计》、《javascript权威指南》都啃完了， 可以说熟练掌握了js，原型链的继承，事件的冒泡和捕获，和变量的提升，理解原理之后代码写起来一气呵成，挺爽的。看过一部分jquery源代码，bootstrap源代码；研究过node.js，读完《深入浅出node.js》发现和java web开发有不少共通之处，模版引擎，路由，http的接受和发送。 我知道不是本科出身，所以就需要自学一些本科计算机学习的知识C语言，数据结构与算法，计算机原理等等。 我有空就多折腾技术
-
+2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个。 我的编程之路从《javascript DOM编程的艺术》开始；来上海后开始学习javascript，把两本书《javascript高级程序设计》、《javascript权威指南》都看完了， 可以说熟练掌握了js，原型链的继承，事件的冒泡和捕获，和变量的提升。看过一部分jquery源代码，bootstrap源代码；研究过node.js，读完《深入浅出node.js》发现和java web开发有不少共通之处，模版引擎，路由，http的接受和发送。 我知道不是本科出身，所以就需要自学一些本科计算机学习的知识C语言，数据结构与算法，计算机原理等等。 我有空就多学习技术。
 
 
 ---
