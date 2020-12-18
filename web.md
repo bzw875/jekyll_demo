@@ -8,7 +8,7 @@
  - 邮箱：bzw875@126.com
  - 个人网站：http://banzhaowu.com/
  - 期望职位：Web前端
- - 期望薪资：税前月薪15k~20k
+ - 期望薪资：税前月薪20k~25k
  - 期望城市：上海
 
 ---
@@ -16,7 +16,7 @@
 # 工作经历
 
 
-## 紫川软件有限公司 （ 2019-06 ~ 2020-05 ）任职1年
+## 紫川软件有限公司 （ 2019-06 ~ 至今 ）
 ### 运营聊天系统
 这个产品是一个支持作业员和客户聊天的系统，使用了websocket与服务器实时通信，架构使用了React.js，react-router、and-design。
 
@@ -27,7 +27,7 @@
 嵌入App的页面，用了vue全家桶，UI用mint-ui，适配各种移动设备，flex布局
 
 
-## 奥盈琦信信息技术（上海）有限公司 （ 2014年4月 ~ 至今 ）
+## 奥盈琦信信息技术（上海）有限公司 （ 2014年4月 ~ 2019年6月 ）
 
 ### AmQue催收系统 
 这个产品使用jquery、bootstrap、和jquery DataTables的插件，后台使用了spring mvc。
@@ -60,15 +60,15 @@
 # 技能清单
 
 熟练掌握的技能
-- jquery、Vue.js、Bootstrap、ECMAScript 6
-- Git、SVN、websocket
+- Vue.js、React、React Native、ES6、Typescript、
+- Git、webpack
 - chrome开发者工具调试
 - 正则表达式、IE9+兼容
 - http: 看完《http权威指南》可以快速使用http的知识排查问题
 - Adobe photoshop、Adobe illustrator
 
 入门水平的技能
-- node.js、webpack、java
+- node.js、java、
 - canvas、SVG、D3.js
 - 英语(英文+google、stackoverflow、英文文档)
 - linux简单操作（比如我的博客运维）
