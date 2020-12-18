@@ -17,11 +17,15 @@
 
 
 ## 紫川软件有限公司 （ 2019-06 ~ 至今 ）
+### 一个消费金融APP
+是一个Hybrid App，里面有原生页面，react native页面，H5页面。主要是函数组件和react hook来实现，用了typescript来开发
+
+### 消费金融的微信小程序版本
+实现了APP的大部分功能，单位使用rpx，组件要在json申明才可以用，wxml的Mustache 语法不能有复杂的表达式。
+
 ### 运营聊天系统
 这个产品是一个支持作业员和客户聊天的系统，使用了websocket与服务器实时通信，架构使用了React.js，react-router、and-design。
 
-### 企业微信下载文件浏览页面
-一个web单页面，用到了企业微信JS-SDK。
 
 ### 运营聊天移动版WebApp
 嵌入App的页面，用了vue全家桶，UI用mint-ui，适配各种移动设备，flex布局
@@ -75,7 +79,8 @@
 
 
 # 自我描述
-2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个。 我的编程之路从《javascript DOM编程的艺术》开始；来上海后开始学习javascript，把两本书《javascript高级程序设计》、《javascript权威指南》都看完了， 可以说熟练掌握了js，原型链的继承，事件的冒泡和捕获，和变量的提升。看过一部分jquery源代码，bootstrap源代码；研究过node.js，读完《深入浅出node.js》发现和java web开发有不少共通之处，模版引擎，路由，http的接受和发送。 我知道不是本科出身，所以就需要自学一些本科计算机学习的知识C语言，数据结构与算法，计算机原理等等。 我有空就多学习技术。
+2012毕业那年从平面设计改行做前端开发，HTML，CSS最开始就会这两个。 我的编程之路从《javascript DOM编程的艺术》开始；来上海后开始学习javascript，把两本书《javascript高级程序设计》、《javascript权威指南》都看完了。
+现在的我喜欢Typescript，喜欢专研技术，研究过node.js，读完《深入浅出node.js》发现和java web开发有不少共通之处，模版引擎，路由，http的接受和发送。 自学一些本科计算机学习的知识C语言，数据结构与算法，计算机原理等等。 
 
 
 ---
